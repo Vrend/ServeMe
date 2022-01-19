@@ -1,0 +1,13 @@
+server
+*.o
+
+files/*
+!files/.gitkeep
+.DS_Store
+
+# Default Files
+
+!files/image.png
+!files/index.html
+!files/script.js
+!files/style.css
